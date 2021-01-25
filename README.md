@@ -36,6 +36,7 @@ New School Summary: [school_summary_new](Resources/school_summary_new.png)
 Replacing the math and reading scores for THS 9th graders, made no effect on their performance for % Overall Passing scores. They are still in the top 5 schools, in second place after Carbera High School. The changes between the original and new columns for average math score, average reading score, % passing math, % passing reading and % overall passing all range from 0.1-0.3. 
 
 Original Top 5 School Results: [school_summary_original](Resources/top_schools_old.png)
+
 New Top 5 School Results: [school_summary_new](Resources/top_schools_new.png)
 
 ### Additional Analysis for the Extent of the Altered Grades 
@@ -43,15 +44,21 @@ New Top 5 School Results: [school_summary_new](Resources/top_schools_new.png)
 For the replacement of the 9th grade scores, there is no affect on the math and reading scores by grade as these were calculated for each grade independently of one another. Therefore, by changing the scores for 1 grade, it does not affect the scores for another. 
 
 The scores by school spending also did not have any affect with the altered scores from THS 9th graders. The average math and reading scores, and the % passing math and reading scores, and % overall passing had no change. 
+
 Original spending per student results: [spending_per_student_original](Resources/spending_per_student_old.png)
+
 New spending per student results: [spending_per_student_new](Resources/spending_per_student_new.png)
 
 The scores by school size did not change with the removal of the 9th grade scores from THS. All of the columns (average math score, average reading score, % passing math, % passing reading, and % overall passing) exhibit the exact same values before and after the altered grades were replaced.
+
 Original scores per school size: [scores_school_size_original](Resources/scores_school_size_old.png)
+
 New scores per school size: [scores_school_size_new](Resources/scores_school_size_new.png)
 
 Scores by school type exhibited no change from the replacement of the THS 9th graders scores. Both Chater and District school types continue to have the same scores and % passing for reading and math in the original and new analysis. 
+
 Original scores by school type: [scores_school_type_original](Resources/scores_school_type_old.png)
+
 New scores by school type: [scores_school_type_new](Resources/scores_school_type_new.png)
 
 ## Summary 
