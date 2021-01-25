@@ -18,7 +18,7 @@ The school district was notified of academic dishonesty in the math and reading 
 The district summary was slightly affected with the removal of the altered academic grades. It is observed that in the Original District Analysis, each column: the average math score, percentage passing math, percentage passing reading, and overall passing percentage was lower by 0.1%-0.3% in in comparison with the New District Analysis.
 
 Original District Analysis 
-![Original District Analysis](https://github.com/tiffcklai/School_District_Analysis/blob/main/Resources/school_summary_old.png?raw=true)
+![Original District Analysis](https://github.com/tiffcklai/School_District_Analysis/blob/main/Resources/district_summary_old.png?raw=true)
 
 New District Analysis 
 ![New District Analysis](https://github.com/tiffcklai/School_District_Analysis/blob/main/Resources/district_summary_new.png?raw=true)
