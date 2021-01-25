@@ -51,7 +51,7 @@ Original scores per school size: [scores_school_size_original](Resources/scores_
 New scores per school size: [scores_school_size_new](Resources/scores_school_size_new.png)
 
 Scores by school type exhibited no change from the replacement of the THS 9th graders scores. Both Chater and District school types continue to have the same scores and % passing for reading and math in the original and new analysis. 
-Original scores by school type: [scores_school_type_original](Resources/scores_school_type_old.png_
+Original scores by school type: [scores_school_type_original](Resources/scores_school_type_old.png)
 New scores by school type: [scores_school_type_new](Resources/scores_school_type_new.png)
 
 ## Summary 
